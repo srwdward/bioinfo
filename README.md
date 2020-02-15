@@ -6,8 +6,7 @@ Course materials including
 
 Check out the individual repositories for the courses
 
+_UVU linux box_
 
-# UVU linux box
 `<id>`@CSH-Biotech2.static.uvu.edu
-
 
