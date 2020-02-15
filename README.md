@@ -1,7 +1,11 @@
 # bioinfo
-Course materials
+Course materials including
+* Personal Genomics
+* Medical Genetics
+* Human Genomics
+
 
 # UVU linux box
-Access id@CSH-Biotech2.static.uvu.edu
+`<id>`@CSH-Biotech2.static.uvu.edu
 
 
