@@ -1,4 +1,4 @@
-# bioinfo
+# bioinformatics classes
 Course materials including
 * Personal Genomics
 * Medical Genetics
